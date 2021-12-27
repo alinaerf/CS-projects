@@ -2,7 +2,7 @@
 Computer Science Assignments and side projects in Python and Javascript.
 
 ## Python Projects:
-- Task Scheduler 
+- Multitasking Scheduler with Priority Queues 
 - Trie Trees 
 - Plagiarism Detector using Hash Tables
 
