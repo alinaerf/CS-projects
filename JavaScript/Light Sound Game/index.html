@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="/style.css" />
+  <script src="/script.js" defer></script>
+  <head> </head>
+  <body>
+    <h1>Light and Sound Memory Game</h1>
+
+    <p>Welcome to the game! Repeat the back pattern by pressing buttons.
+    
+     <div>
+      Choose difficulty level: 
+    </div> 
+      <div>
+        
+    <button id="difficulty1" onclick="chooseDifficulty(1)">
+     Easy 
+    </button>
+      
+    <button id="difficulty2" onclick="chooseDifficulty(2)">
+     Medium 
+    </button>
+      
+    <button id="difficulty3" onclick="chooseDifficulty(3)">
+      Difficult
+    </button> </div>
+    </p>
+    You have 3 attempts. <div id="mistakesNum">Mistakes:
+    0
+    </div>
+    <button id="startBtn" onclick="startGame()">Start</button>
+    <button id="stopBtn" class="hidden" onclick="stopGame()">End</button>
+
+    <div id="gameButtonArea">
+      <button id="button1" onmousedown="startTone(1)" onmouseup="stopTone(1)" onclick="guess(1)"><img id="image1" class="image hidden" src="https://cdn.glitch.global/035246b7-7e34-4cf5-a2d7-208ea223b822/lawrence-kayku-ZVKr8wADhpc-unsplash.jpg?v=1648593763614" ></button>
+      <button id="button2" onmousedown="startTone(2)" onmouseup="stopTone(2)" onclick="guess(2)"><img id="image2" class="image hidden" src="https://cdn.glitch.global/035246b7-7e34-4cf5-a2d7-208ea223b822/steve-johnson-dVRD8E3XUGs-unsplash.jpg?v=1648595708015"></button>
+      <button id="button3" onmousedown="startTone(3)" onmouseup="stopTone(3)" onclick="guess(3)"><img id="image3" class="image hidden" src="https://cdn.glitch.global/035246b7-7e34-4cf5-a2d7-208ea223b822/rikonavt-K3x_AkLVTAo-unsplash.jpg?v=1648595710239"></button>
+      <button id="button4" onmousedown="startTone(4)" onmouseup="stopTone(4)" onclick="guess(4)"><img id="image4" class="image hidden" src="https://cdn.glitch.global/035246b7-7e34-4cf5-a2d7-208ea223b822/tomoko-uji-MUPCSMPgh6k-unsplash.jpg?v=1648595713712"></button>
+      <button id="button5" onmousedown="startTone(5)" onmouseup="stopTone(5)" onclick="guess(5)"><img id="image5" class="image hidden" src="https://cdn.glitch.global/035246b7-7e34-4cf5-a2d7-208ea223b822/vino-li-pCjw_ygKCv0-unsplash.jpg?v=1648642135003"></button>
+    </div>
+  </body>
+</html>
