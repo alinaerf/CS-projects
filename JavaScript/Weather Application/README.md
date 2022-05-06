@@ -5,7 +5,7 @@
 The following functionality is complete:
 
 * [x] Search bar to find a city of interest
-* [x] Instant display of the temperature and weather condition of the city
+* [x] Instant display of the temperature and weather conditions of the city
 * [x] Change of the background image depending on the temperature
 ## Video Walkthrough (GIF)
 
