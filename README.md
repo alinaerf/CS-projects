@@ -6,3 +6,5 @@ Computer Science Assignments and side projects in Python and Javascript.
 - Trie Trees and Autocomplete Algorithm
 - Plagiarism Detector using Hash Tables
 
+### JavaScript Projects:
+- Light and Sound Game
