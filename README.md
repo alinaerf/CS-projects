@@ -8,6 +8,6 @@ Computer Science Assignments and side projects in Python and Javascript.
 
 ### JavaScript Projects:
 - Light and Sound Game
-- To-Do List Website
-- Weather Application
-- Chat Application
+- To-Do List Website [CRUD]
+- Weather Application [React, API]
+- Chat Application [React, Firebase, Chat Engine]
