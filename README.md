@@ -10,3 +10,4 @@ Computer Science Assignments and side projects in Python and Javascript.
 - Light and Sound Game
 - To-Do List Website
 - Weather Application
+- Chat Application
