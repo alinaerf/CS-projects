@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="guess_1">Guess #1:</string>
+    <string name="text1">None</string>
+    <string name="guess_1_check">Guess #1 Check:</string>
+    <string name="text2">None</string>
+    <string name="guess_2">Guess #2:</string>
+    <string name="text3">None</string>
+    <string name="guess_2_check">Guess #2 Check:</string>
+    <string name="text4">None</string>
+    <string name="guess_3">Guess #3:</string>
+    <string name="text5">None</string>
+    <string name="guess_3_check">Guess #3 Check:</string>
+    <string name="text6">None</string>
+    <string name="text7">None</string>
+    <string name="submit">Submit</string>
+</resources>
