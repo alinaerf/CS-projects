@@ -5,6 +5,7 @@ Computer Science Assignments and side projects in Python, Javascript, and Kotlin
 - Multitasking Scheduler with Priority Queues 
 - Trie Trees and Autocomplete Algorithm
 - Plagiarism Detector using Hash Tables
+- Queue Modeling Analysis using Simulations
 
 ### JavaScript Projects:
 - Light and Sound Game
