@@ -1,5 +1,5 @@
 # CS-projects
-Computer Science Assignments and side projects in Python and Javascript.
+Computer Science Assignments and side projects in Python, Javascript, and Kotlin.
 
 ### Python Projects:
 - Multitasking Scheduler with Priority Queues 
