@@ -17,3 +17,4 @@ Computer Science Assignments and side projects in Python, Javascript, and Kotlin
 ### Android Projects:
 - Wordle Game
 - Wishlist Application
+- Movies in Theaters Application
