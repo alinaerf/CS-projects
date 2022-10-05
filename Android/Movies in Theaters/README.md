@@ -24,10 +24,3 @@ The gif can be found via the link:
 
 
 <a href='https://imgur.com/MYUBeGG.gif'> Application Implementation </a>
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ScreenToGif.
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
