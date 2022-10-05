@@ -24,7 +24,6 @@ The gif can be found via the link:
 
 
 <a href='https://imgur.com/MYUBeGG.gif'> Application Implementation </a>
-<img src='https://imgur.com/MYUBeGG.gif' title='Video Walkthrough' width=''  alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif.
