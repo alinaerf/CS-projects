@@ -1,14 +1,13 @@
-# Android Project 3 - *Flixer: Part 1*
+#  *Movies in Theaters Application*
 
-Submitted by: **Alina Erofeeva**
 
-**Flixer: Part 1** is a movie browsing app that allows users to browse movies currently playing in theaters.
+**Movies in Theaters** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
 Time spent: **7** hours spent in total
 
-## Required Features
+##  Features
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
 - [x] **Make a request to [The Movie Database API's `now_playing`](https://developers.themoviedb.org/3/movies/get-now-playing) endpoint to get a list of current movies**
 - [x] **Parse through JSON data and implement a RecyclerView to display all movies**
@@ -21,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 
 
 
-There is a problem with GitHub, the gif can be found via the link:
+The gif can be found via the link:
 
 
 <a href='https://imgur.com/MYUBeGG.gif'> Application Implementation </a>
@@ -33,19 +32,3 @@ GIF created with ScreenToGif.
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
-
-## License
-
-    Copyright [2022] [Alina Erofeeva]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
