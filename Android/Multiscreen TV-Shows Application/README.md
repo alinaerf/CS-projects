@@ -9,8 +9,7 @@ Time spent: **10** hours spent in total
 
 The following functionality is completed:
 
-- [x] **Choose any endpoint on The MovieDB API except `now_playing`**
-  - Chosen Endpoint: `[tv/popular]`
+- [x] **Choose an endpoint on The MovieDB API `[tv/popular]` **
 - [x] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
 - [x] **Use Glide to load and display at least one image per entry**
 - [x] **Click on an entry to view specific details about that entry using Intents**
